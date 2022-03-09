@@ -1,2 +1,3 @@
-# recuerdodepython
-ejemplo
+# recuerdo de python
+usando python
+ejemplo python
